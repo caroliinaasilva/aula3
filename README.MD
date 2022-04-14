@@ -1,0 +1,2 @@
+Aprendemos sobre estrutura condicional, escopo e funções. 
+Funções recebem paramentros e retornam resultados, escopo global e local e léxico, também aprendemos a usar as condicionais if, else e switch.
